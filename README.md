@@ -2,10 +2,8 @@
 ### I am a Pre-Final year Computer Science student at VIT Vellore
 
 <br>
-- 🌱 I’m currently exploring the field of Natural language processing and Computer Vision <br>
-- ♟ I am interested in Application based research projects of Machine Learning. <br>
-- 👯 I’m looking to collaborate on projects relating to NLP, work that relates to my current field of interest. <br>
-- 👻 Want to know More about Me? Follow me on LinkedIN.
+- 🌱 I’m currently exploring the field of Artificial Intelligence <br>
+- ♟ I am interested in Projects related to Java and AI <br>
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/samriddhiagarwal175/count.svg)
