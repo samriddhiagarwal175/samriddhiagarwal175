@@ -1,9 +1,11 @@
 # Hi there I am Samriddhi Agarwal👋 <br>
-### I am a Pre-Final year Computer Science student at VIT Vellore
+### I am a Data Science Engineer at Bajaj Finserv
 
 <br>
 - 🌱 I’m currently exploring the field of Artificial Intelligence <br>
-- ♟ I am interested in Projects related to Java and AI <br>
+- ♟ I am interested in Projects related to GNNs and Fraud Detection algos using graph databases <br>
+- I have explored Blazegraph and Amazon Neptune databases and their way of storing <br>
+- Playing with numbers is my hobby <br>
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/samriddhiagarwal175/count.svg)
